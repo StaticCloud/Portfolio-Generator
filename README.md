@@ -14,3 +14,9 @@ npm install inquirer
 ```bash
 node app
 ```
+
+## Overview
+
+Here's an overview of the app!
+
+![overview](./PortfolioGenOverview.png)
